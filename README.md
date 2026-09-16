@@ -1,22 +1,51 @@
-# 💻 Estudante de Engenharia de Computação | UFGD
+# 💻 Olá, eu sou a Ana Júlia Peraçolli 👋
+
+### Estudante de Engenharia de Computação | UFGD
 
 🚀 Trajetória marcada por competições científicas, pesquisa aplicada e projetos de impacto real, unindo rigor técnico e visão de impacto social.
 
-## 👩‍🔬 Sobre
+---
+
+## 👩‍🔬 Sobre mim
 
 🛠️ Entre 2022 e 2024, atuei como **pesquisadora bolsista pela FUNDECT**, desenvolvendo em equipe dois projetos de tecnologia assistiva — um sistema de controle de acesso inclusivo e um painel eletrônico inclusivo — ambos apresentados na FETECMS. Essa experiência aprofundou minhas habilidades em eletrônica, prototipagem e programação embarcada.
 
-🎓 Fui **monitora de Programação e Algoritmos** na universidade, apoiando colegas no desenvolvimento do raciocínio computacional, e atualmente participo de um **projeto de extensão** 🌱 voltado ao desenvolvimento de software.
+🎓 Fui **monitora de Programação e Algoritmos** na universidade, apoiando colegas no desenvolvimento do raciocínio computacional.
+
+🌱 Atualmente participo de um **projeto de extensão** voltado ao desenvolvimento de software, e em breve inicio um **projeto de iniciação científica**.
+
+---
 
 ## 🏆 Reconhecimentos
 
-- 🥉 Premiada em múltiplas edições da **OBMEP**: duas menções honrosas, duas medalhas de bronze em nível nacional e uma medalha de bronze em nível estadual
-- 📐 Participante de três edições do **PICTEC OBMEP**
+| Conquista | Detalhe |
+|---|---|
+| 🥉 **OBMEP** | 2 menções honrosas · 2 medalhas de bronze (nacional) · 1 medalha de bronze (estadual) |
+| 📐 **PICTEC OBMEP** | Participação em 3 edições |
+| 🔬 **FUNDECT** | Pesquisadora bolsista (2022–2024) |
+
+---
 
 ## 🧰 Tecnologias
-C, C++, Python, Desenvolvimento de Sistemas Embarcados.
 
-<!-- Adicione aqui os badges das linguagens/ferramentas que você usa -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded](https://img.shields.io/badge/Sistemas%20Embarcados-333333?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajperacolli&show_icons=true&theme=default)
+
+---
+
+## 📫 Contato
+
+<!-- Substitua os links abaixo pelos seus -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 ---
 
