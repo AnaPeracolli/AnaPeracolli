@@ -33,11 +33,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Embedded](https://img.shields.io/badge/Sistemas%20Embarcados-333333?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPeracolli&show_icons=true&theme=default)
 
 ---
 
