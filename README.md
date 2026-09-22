@@ -37,7 +37,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaperacolli&show_icons=true&theme=default)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPeracolli&show_icons=true&theme=default)
 
 ---
 
